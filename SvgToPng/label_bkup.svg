@@ -1,0 +1,10 @@
+﻿<svg viewBox="0 0 90.7 39.7" xmlns="http://www.w3.org/2000/svg">
+  <!--firkant til tekst-->
+  <rect x="19.8" y="0" width="70.9" height="39.7">
+	<text x="10" y="5" fill="red">I love SVG!</text>
+  </rect>
+  <!--outer circle-->
+  <circle cx="19.8" cy="19.8" r="19.8" />
+  <!--inner circle-->
+  <circle cx="19.8" cy="19.8" r="14.9" />
+</svg>

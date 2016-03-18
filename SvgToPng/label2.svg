@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 90.7 39.7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!--firkant til tekst-->
+  <rect x="19.8" y="0" width="70.9" height="39.7" fill="white" />
+  <text x="40" y="12" fill="red" font-size="9">this</text>
+  <text x="40" y="20" fill="red" font-size="9">is</text>
+  <text x="40" y="28" fill="red" font-size="9">a</text>
+  <text x="40" y="36" fill="red" font-size="9">test</text>
+  <!--outer circle-->
+  <!--<circle cx="19.8" cy="19.8" r="19.8" fill="white" />-->
+  <image x="19.8" y="19.8" width="10" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQTSURBVEhLlZdBiJVVFIAfDxEZhggJcYaZECfElUREREhISMQgEi7ChQwSEiIPaREhIUKIREgMEiFNC4kQaSUyhEREREREi1auQiJEBnEkIkREnOn7bvf8nPf3z7xp8XHOf+459/z33HfP/V9vYmKi38EOOAe7k+1/sby83F9ZWVmT3uTkZLAJ9sNVeASXoA/ZZ8PMz8/3FhYWZBzGqt5QVozjcbiBvopcRd6DbU5Qx5Vduqsz0Xr6FvTvkAeyvUwAV8GEwXugPbMJPobP4EN4F47BIdgHe2AK9GvHngbn/QrK9pWywCyU1VbuwPMQ43ISss9avAM5TrbDA3D8IZwvZUNxf3/3rRxUwt/or/h2yGd8bo03ujLpt2EM3Xmj7MrvofGPUssZjS3ugJN8m2wb4S2IeSfhOuTxBznx0+CvOTu4h8fTs9yGU7AXnoOj8BNkn99gMxyEu9WWORulthTqiynxN+ie57+SzXJtRZYXRveFY6vO6qOvoB9Gnql6tt9CPmFQ5iDo4P7uhOv1We7CU9COCXyRaxD+v4L+5cUTR+Dfc5zYjPEW8gRYwlipnIfsKzvh2fT8MuSYWfDoxbNbUo5bu9TKA0jP4z30ElDlXB0vMfAG+uM6/gmYeKu+Uu1ujT+u+4jH8BJ6yZdLFTi5bbNMkDgB2e8KxJjboG1HsgV7wRf7Apr4dqlNehgZpcl8Ddn3dXgIjn1UbYP6nFkET4xVbOLbpbY/e3ZLEPqQBMsbpTbGMu5CqHsC7HhDceB27EHqY9KSr1l6NX6JjCQRmLHd2RLHoMTh54Svwh85pqVfRsbiSlwEis2+CRqhe3tZ+mtwM+zr8Ahsu/8ptedtCX3NZF3EuHID+kUYKrWr/RyGJkuBNhOPxY/1eYjkN0r3dtqO3pS6uRLDWZl071BfzkYR9k+Rb8LlsIEVu5+eu7CZNKW+wEQ/gx3LH0/jWPU4KrmTefH7Mh/4jLTZ6NNuIG39z+rT783MzAT9qampLRg9by/AIXQv/xfB8gzgJth77ePartRJvYNdxKjE6qemp6d7vdXV1X4wNzdXfuEM2jaPor+GHAftfjs5Zj8v5QJboHfvyfrszeW3mysr7bSDpcFgMGbinp+bypQ4f/htAxu7W+E+lj0Xxv02exvp70Sb1+OT4F3s6nfDfnQXcRouoi+SeNakDSS2fJY6mr+dyMlyD/bXrd84eD61+Rux1G6Bz34m/YI0No5sQZ3EnaU+4mSC/gPSEntBRKlM7HXo12LY9HPF2sMmu6BUJ0PiflepLzFYAtHdq/KR18FSvAzyBryP3nw4VPsxMJmrjW10xf12qR0sPbcGjiT7deg2pg2V2h9DCYpJRukj8JN5qMzSVWr/yjSBoxLEuHId3euyVepB/x+HUVHzW3YYXQAAAABJRU5ErkJggg==" />
+  <!--inner circle-->
+  <!--<circle cx="19.8" cy="19.8" r="14.9" fill="white"/>-->
+</svg>
+	
